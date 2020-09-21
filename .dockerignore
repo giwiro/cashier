@@ -1,0 +1,7 @@
+/.git
+/.settings
+/.idea
+.classpath
+.project
+.springBeans
+Dockerfile
